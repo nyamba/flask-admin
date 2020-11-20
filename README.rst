@@ -2,6 +2,11 @@ Nest Education
 =============
 backend demo
 
+bug-bix
+=======
+fixed login error
+fixed upload error
+
 
 Flask-Admin
 ===========
